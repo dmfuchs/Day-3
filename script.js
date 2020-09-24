@@ -116,7 +116,7 @@ function fib(n){
       arr.push(arr[m - 2] + arr[m -1])
     }
    return arr[n]
-   console.log(n)
   }
+  console.log(n)
 
  
